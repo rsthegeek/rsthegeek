@@ -3,6 +3,6 @@
 #### A back-end developer by day ☼ and an audiophile by night ☾
 
 - 👥 Core team member and back-end developer at [NDP.ir](https://ndp.ir)
-- ⚙️ I use daily: `PHP`, `Laravel`, `TypeScript`, `JavaScript`, `NestJS`, `Postgesql`, `MySQL`, `Redis`, `Minio`, `Liferay Portal`, `BPMS`, 
+- ⚙️ I use daily: `PHP`, `Laravel`, `TypeScript`, `JavaScript`, `NestJS`, `Postgesql`, `MySQL`, `Redis`, `Minio`, `Liferay Portal`, `BPMS`
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/fekri-m/)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter and Sherlock Holmes
