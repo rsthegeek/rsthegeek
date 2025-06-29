@@ -28,7 +28,7 @@ A senior backend developer and tech lead with over **8 years of experience** des
 
 ## Fun Facts
 
-- I'm into audio engineering and audio tuning
+- Passionate about audio engineering and audio tuning
 - Focused on health: weight training, <15% body fat routine
 - Psychology enthusiast and lifelong learner
 - Occasional photographer and urban explorer
