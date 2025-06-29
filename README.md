@@ -1,5 +1,5 @@
 <h1 align="center">MohammadRasoul Fekri</h1>
-<h3 align="center">Senior Backend Developer • Tech Lead • Audio Enthusiast • Lifelong Learner</h3>
+<h3 align="center">Senior Backend Developer • Tech Lead • Audio Enthusiast</h3>
 
 A senior backend developer and tech lead with over **8 years of experience** designing scalable systems and APIs using **PHP (Laravel)**, **TypeScript (NestJS)**, and **Java (Spring Boot)**.
 
