@@ -1,7 +1,7 @@
 <h1 align="center">MohammadRasoul Fekri</h1>
 <h3 align="center">Senior Backend Developer • Tech Lead • Audio Enthusiast</h3>
 
-A senior backend developer and tech lead with over **8 years of experience** designing scalable systems and APIs using **PHP (Laravel)**, **TypeScript (NestJS)**, and **Java (Spring Boot)**.
+A senior backend developer and tech lead with over **8 years of experience** designing scalable systems and APIs using **PHP (Laravel)**, **TypeScript (NestJS)**, and **Java (Spring)**.
 
 ## Tech Stack
 
@@ -12,7 +12,7 @@ A senior backend developer and tech lead with over **8 years of experience** des
 ![Java](https://img.shields.io/badge/Java-555?style=flat&logo=openjdk&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-555?style=flat&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-555?style=flat&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-555?style=flat&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-555?style=flat&logo=spring&logoColor=white)
 ![Liferay](https://img.shields.io/badge/Liferay-555?style=flat&logo=liferay&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-555?style=flat&logo=mysql&logoColor=white)
